@@ -2,6 +2,8 @@
 - profile page: https://mini-hiori.github.io/profile/
 - blog: https://mini-hiori.github.io/start-of-blog/
 
+https://github-readme-stats.vercel.app/api?username=mini-hiori
+
 <!--
 **mini-hiori/mini-hiori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
