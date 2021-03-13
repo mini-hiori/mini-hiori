@@ -1,4 +1,6 @@
 ### Hi there 👋
+- profile page: https://mini-hiori.github.io/profile/
+- blog: https://mini-hiori.github.io/start-of-blog/
 
 <!--
 **mini-hiori/mini-hiori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
