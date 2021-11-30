@@ -1,5 +1,6 @@
 ### Hi there 👋
 - profile page: https://mini-hiori.github.io/profile/
+- twitter: https://twitter.com/mini_hiori
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mini-hiori&show_icons=true" />
